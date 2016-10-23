@@ -1,0 +1,22 @@
+{
+  "name": "object-fmap",
+  "version": "1.0.0",
+  "description": "Defines an fmap functor on objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Starofall/object-fmap"
+  },
+  "keywords": [
+    "fmap",
+    "functor"
+  ],
+  "author": "Starofall",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
+}
